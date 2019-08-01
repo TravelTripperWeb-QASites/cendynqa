@@ -27,6 +27,10 @@
         "caption": "",
         "description": ""
       }
+    },
+    "hero_title": {
+      "content": "Header",
+      "_template": "header"
     }
   }
 ]
