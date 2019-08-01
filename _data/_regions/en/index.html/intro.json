@@ -31,6 +31,9 @@
     "hero_title": {
       "content": "Header",
       "_template": "header"
+    },
+    "hero_html": {
+      "content": "<p class=\"h5\">Body Content</p>"
     }
   }
 ]
